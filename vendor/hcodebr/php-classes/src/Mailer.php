@@ -8,7 +8,7 @@ use PHPMailer;
 class Mailer{
 
 	const  USERNAME = 'portugues10.PR@gmail.com';
-	const  PASSWORD = 'paulo1995';
+	const  PASSWORD = '*******';
 	const  NAME_FROM = "Minha Loja Virtual";
 
 	private $mail;
